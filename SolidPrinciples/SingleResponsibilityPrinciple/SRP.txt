@@ -1,0 +1,21 @@
+﻿What is:
+- A class should have only one reason to change.
+- A class should have only one responsibility.
+
+Benefits:
+- Less complexity, more readability —– one task in the class
+- Reusability -- FileSaver
+- Testability
+- Coherence -- methods are more related/coherent
+- Decoupling -- classes are less dependent on each other
+
+Downsides:
+- Might be difficult to organize so many classes
+- Not clear what it means "single responsibility"
+
+Keywords:
+- Separating into classes/methods
+
+Note: Refactoring2 seems to belong to OCP, but not SRP.
+
+Source: https://code-maze.com/single-responsibility-principle/

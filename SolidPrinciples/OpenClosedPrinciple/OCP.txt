@@ -1,0 +1,7 @@
+﻿What is:
+- A class or a method should be open for extension but closed for modification
+
+Keywords:
+- Inheritance (polymorphism) (abstract/virtual class/method)
+
+Source: https://code-maze.com/open-closed-principle/
